@@ -1,7 +1,7 @@
 <h1 align="center">Hi🏿, I'm CowCat</h1>
 <h3 align="center">A frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [GCRP](https://gcrp.cc)
+- 🔭 I’m currently working on Helix Designs
 
 - 👯 I’m looking to collaborate on **Any Project 😍**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/weQbFXr5Hy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/weQbFXr5Hy" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/helixdesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/helixdesign" height="30" width="40" /></a>
 </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cowcatde&show_icons=true&locale=en&layout=compact" alt="cowcatde" /></p> -->
